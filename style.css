@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(99, 73, 49);
+}
+
+h1,
+.second-tier {
+    color: rgb(0, 68, 17);
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 75px;  
+    background-color: #c4aa35;
+    text-align: center;
+}
+
+.second-tier {
+    font-size: 36px;
+}
+
+.ordered-list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: rgb(207, 164, 124);
+}
