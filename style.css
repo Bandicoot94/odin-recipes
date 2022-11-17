@@ -1,18 +1,24 @@
 *{
-    background-color: rgb(99, 73, 49);
+    background-color: rgb(255, 241, 228);
+    box-sizing: border-box;
 }
 
 h1,
 .second-tier {
-    color: rgb(0, 68, 17);
+    color: rgb(0, 0, 0);
 }
 
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     font-size: 75px;  
-    background-color: #c4aa35;
+    background-color: #fceb9d;
     text-align: center;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    border: solid black;
+
 }
 
 .second-tier {
@@ -22,5 +28,5 @@ h1 {
 .ordered-list {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
-    color: rgb(207, 164, 124);
+    color: rgb(0, 0, 0);
 }
